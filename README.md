@@ -3,4 +3,4 @@
 
 [第1到100题](https://github.com/Songnytu/Leetcode/blob/master/REAdME1_100.md)
 
-[第601到700题](https://github.com/Songnytu/Leetcode/blob/master/REAdME601_700.md)
+[第601到700题](https://github.com/Songnytu/Leetcode/blob/master/README601_700.md)
