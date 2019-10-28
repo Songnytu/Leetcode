@@ -29,14 +29,12 @@ public class leetcode650 {
         }else {   //如果不是素数的话
             int[] dp = new int[n + 1];
             int h = (int) Math.sqrt(n);
-            System.out.println("h:"+h);
             for (int i = 2; i <= n; i++) {
                 dp[i] = i;
-                System.out.println("dp["+i+"]:"+dp[i]+" 这个dp[i]=i");
                 for (int j = 2; j <= h; j++) {
-                    if (i % j == 0) {
-                        dp[i] = dp[j] + dp[i / j];
-                        System.out.println("dp[i]="+dp[i] +" i="+i+ " j="+j +" dp[j]="+dp[j]+" dp[i/j]="+dp[i/j]);
+                    if (i % j == 0) {    //找到2-h之间最小的因数(注意后面有个break)就是结果
+                        //实际操作当中，是要计算所有的因子，取最小值
+                        dp[i] = dp[j] + dp[i / j];   //例子:dp[6] = dp[2] + dp[3];    原理:AA * 3 == AAAAAA
                         break;
                     }
                 }
