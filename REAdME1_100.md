@@ -9,3 +9,5 @@
 [二十一.合并两个有序链表](https://github.com/Songnytu/Leetcode/blob/master/Leetcode/src/main/java/leetcode1_100/leetcode21.java)
 
 [三十二.最长的有效括号](https://github.com/Songnytu/Leetcode/blob/master/Leetcode/src/main/java/leetcode1_100/leetcode32.java)
+
+[六十二.不同路径(剑指offer有相同的题)](https://github.com/Songnytu/Leetcode/blob/master/Leetcode/src/main/java/leetcode1_100/leetcode62.java)
