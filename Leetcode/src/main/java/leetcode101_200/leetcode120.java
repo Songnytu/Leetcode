@@ -43,16 +43,19 @@ public class leetcode120 {
         for (int i = 1;i<triangle.size();i++){
             List<Integer> temp = new ArrayList<Integer>();
             for (int j = 0;j<triangle.get(i).size();j++){
+                int itselt = triangle.get(i).get(j);   //将当前位置的值保存一下
                 if (j == 0){   //当前行的第一个数
-                    temp.add(triangle.get(i).get(j)+result.get(i-1).get(j));
+                    temp.add(itselt+result.get(i-1).get(j));
                 }else if (j == triangle.get(i).size()-1){  //当前行的最后一个
-                    temp.add(triangle.get(i).get(j)+result.get(i-1).get(j-1));
+                    temp.add(itselt+result.get(i-1).get(j-1));
                 }else {
-                    temp.add(triangle.get(i).get(j)+Math.min(result.get(i-1).get(j-1),result.get(i-1).get(j)));
+                    //上一层的值与上一层的前一个值做比较取最小
+                    temp.add(itselt+Math.min(result.get(i-1).get(j-1),result.get(i-1).get(j)));
                 }
             }
             result.add(temp);
         }
+        //遍历最后一行取最小路径值
         minRoute = result.get(result.size()-1).get(0);  //将最后一行的第一个值赋入minRoute
         for (int i = 1;i<result.get(result.size()-1).size();i++){
             if (result.get(result.size()-1).get(i) < minRoute){

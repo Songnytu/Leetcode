@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52ca897a-70ed-405b-9c63-555f0303019c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode120.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode120.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode120.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode101_200/leetcode120.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode101_200/leetcode120.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode1_100/leetcode96.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
+            <state relative-caret-position="253">
               <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
             </state>
           </provider>
@@ -84,17 +85,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode120.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="483">
+              <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#457#466#0" expanded="true" />
-                <element signature="e#555#564#0" expanded="true" />
-                <element signature="e#627#636#0" expanded="true" />
-                <element signature="e#699#708#0" expanded="true" />
-                <element signature="e#789#804#0" expanded="true" />
-                <element signature="e#1107#1122#0" expanded="true" />
-                <element signature="e#1222#1231#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -166,10 +160,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="304" />
-    <option name="width" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="150" />
+    <option name="y" value="82" />
+    <option name="width" value="1041" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -178,7 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,13 +210,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572617360702" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572666319258" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -387,17 +381,18 @@
       <workItem from="1572344507033" duration="11022000" />
       <workItem from="1572428698571" duration="3281000" />
       <workItem from="1572612569948" duration="3903000" />
+      <workItem from="1572666110076" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76514000" />
+    <option name="totallyTimeSpent" value="76747000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="304" width="1040" height="744" extended-state="6" />
+    <frame x="100" y="55" width="694" height="496" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20918368" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3600629" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -406,7 +401,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23606557" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36263737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,7 +411,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.29836065" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.29662523" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -534,6 +529,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode1_100/leetcode96.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testZero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -548,26 +550,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode1_100/leetcode96.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode120.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="483">
+          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#457#466#0" expanded="true" />
-            <element signature="e#555#564#0" expanded="true" />
-            <element signature="e#627#636#0" expanded="true" />
-            <element signature="e#699#708#0" expanded="true" />
-            <element signature="e#789#804#0" expanded="true" />
-            <element signature="e#1107#1122#0" expanded="true" />
-            <element signature="e#1222#1231#0" expanded="true" />
           </folding>
         </state>
       </provider>
