@@ -21,19 +21,17 @@ public class leetcode108 {
             return null;
         int len = nums.length/2;
         TreeNode root = new TreeNode(nums[len]);
-        root.left = test(Arrays.copyOfRange(nums,0,len));
-        root.right = test(Arrays.copyOfRange(nums,len+1,nums.length));
+//        root.left = test(Arrays.copyOfRange(nums,0,len));
+//        root.right = test(Arrays.copyOfRange(nums,len+1,nums.length));
         return root;
     }
 }
-/*
-树结构
+
 class TreeNode{
     int val;
     TreeNode left;
-    TreeNode rigth;
+    TreeNode right;
     TreeNode(int val){
         this.val = val;
     }
 }
-*/
