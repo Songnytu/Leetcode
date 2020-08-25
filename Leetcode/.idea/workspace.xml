@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e6fcd8d-b170-4a2a-80db-d4a8cda7df1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode1_100/leetcode15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode201_300/leetcode230.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode201_300/leetcode234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HasStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode187.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode108.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testtrycatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testtrycatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Leetcode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode101_200/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode101_200/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode101_200/leetcode108.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode101_200/leetcode108.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode101_200/leetcode111.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testZero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testtrycatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testtrycatch.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testtrycatch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
               <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode187.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#560#568#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,6 +62,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode108.java" />
         <option value="$PROJECT_DIR$/src/test/java/testZero.java" />
         <option value="$PROJECT_DIR$/src/test/java/testtrycatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode187.java" />
       </list>
     </option>
   </component>
@@ -82,14 +79,50 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode101_200" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581745102776" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598364716620" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -105,7 +138,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.testtrycatch">
+  <component name="RunManager" selected="Application.leetcode187">
+    <configuration name="leetcode187" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode101_200.leetcode187" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode101_200.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testZero" />
       <module name="Leetcode" />
@@ -122,6 +168,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode187" />
         <item itemvalue="Application.testtrycatch" />
         <item itemvalue="Application.testZero" />
       </list>
@@ -165,17 +212,26 @@
       <workItem from="1581667120397" duration="471000" />
       <workItem from="1581731821345" duration="661000" />
       <workItem from="1581830832697" duration="594000" />
+      <workItem from="1598361901654" duration="1854000" />
     </task>
+    <task id="LOCAL-00001" summary="旧数据提交">
+      <created>1598362012328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598362012328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28418000" />
+    <option name="totallyTimeSpent" value="30272000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-1687" y="-7" width="1358" height="814" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20856912" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -208,6 +264,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="旧数据提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="旧数据提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode1_100/leetcode1.java">
@@ -287,6 +347,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode187.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#560#568#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
