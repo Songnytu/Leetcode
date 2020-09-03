@@ -5,6 +5,9 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+/**
+ * 就是个字符串找重复子序列
+ */
 public class leetcode187 {
     public static void main(String[] args){
         String strs = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT";
