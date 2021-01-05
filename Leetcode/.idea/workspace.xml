@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e6fcd8d-b170-4a2a-80db-d4a8cda7df1a" name="Default Changelist" comment="">
+    <list default="true" id="9e6fcd8d-b170-4a2a-80db-d4a8cda7df1a" name="Default Changelist" comment="640计算方程式x的值">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode201_300/leetcode264.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode201_300/leetcode264.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode201_300/leetcode264.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode201_300/leetcode264.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,8 +47,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode201_300/leetcode264.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="325">
+              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/reflect/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="414" column="21" lean-forward="true" selection-start-line="414" selection-start-column="21" selection-end-line="414" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -174,7 +182,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601514129384" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601540246529" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -296,7 +304,7 @@
       <workItem from="1598923362750" duration="22834000" />
       <workItem from="1600343239901" duration="607000" />
       <workItem from="1600569284827" duration="2885000" />
-      <workItem from="1601513639645" duration="378000" />
+      <workItem from="1601513639645" duration="3224000" />
     </task>
     <task id="LOCAL-00001" summary="旧数据提交">
       <created>1598362012328</created>
@@ -319,14 +327,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599111248770</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update错别字">
+      <created>1601514173972</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601514173972</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63363000" />
+    <option name="totallyTimeSpent" value="66209000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24333064" />
@@ -337,9 +352,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.35523978" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3232682" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3232682" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -367,7 +382,8 @@
     <MESSAGE value="旧数据提交" />
     <MESSAGE value="187重复DNA序列,使用hashSet" />
     <MESSAGE value="640计算方程式x的值" />
-    <option name="LAST_COMMIT_MESSAGE" value="640计算方程式x的值" />
+    <MESSAGE value="update错别字" />
+    <option name="LAST_COMMIT_MESSAGE" value="update错别字" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -498,10 +514,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/reflect/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="414" column="21" lean-forward="true" selection-start-line="414" selection-start-column="21" selection-end-line="414" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode201_300/leetcode264.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="325">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
         </state>
       </provider>
     </entry>

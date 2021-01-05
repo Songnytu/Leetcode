@@ -1,4 +1,7 @@
 package leetcode201_300;
+
+import java.lang.reflect.Array;
+
 /*
 * 二百六十四.丑数II
 *
@@ -20,6 +23,7 @@ public class leetcode264 {
     public static void main(String[] args){
         int n = 11;
         System.out.println(test(n));
+
     }
     //动态规划思想
     public static int test(int n){
