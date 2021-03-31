@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e6fcd8d-b170-4a2a-80db-d4a8cda7df1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode101_200/leetcode135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode401_500/leetcode435.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode201_300/leetcode264.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode201_300/leetcode264.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode301_400/leetcode455.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode401_500/leetcode455.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1001_1100/leetcode1029$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1001_1100/leetcode1029.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode101_200/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode101_200/leetcode108.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode101_200/leetcode120.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode101_200/leetcode139.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1201_1300/leetcode1235.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1_100/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1_100/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1_100/leetcode1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1_100/leetcode21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1_100/leetcode3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1_100/leetcode32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1_100/leetcode5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1_100/leetcode62.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1_100/leetcode94.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode1_100/leetcode96.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode201_300/leetcode264.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode301_400/leetcode350.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode301_400/leetcode376.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode501_600/leetcode523.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode601_700/leetcode650.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode601_700/leetcode682.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode701_800/leetcode765.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode701_800/leetcode766.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +53,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1qMmN0Nh58ppIgLvbXCsatwQbth" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,14 +70,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609849194307" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.leetcode135">
+  <component name="RunManager" selected="Application.leetcode435">
     <configuration name="leetcode135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode101_200.leetcode135" />
       <module name="Leetcode" />
@@ -71,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode455" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode301_400.leetcode455" />
+    <configuration name="leetcode435" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode401_500.leetcode435" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode301_400.*" />
+          <option name="PATTERN" value="leetcode401_500.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode640" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode601_700.leetcode640" />
+    <configuration name="leetcode455" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode401_500.leetcode455" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode601_700.*" />
+          <option name="PATTERN" value="leetcode401_500.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode435" />
         <item itemvalue="Application.leetcode135" />
         <item itemvalue="Application.leetcode455" />
         <item itemvalue="Application.leetcode830" />
         <item itemvalue="Application.leetcode264" />
-        <item itemvalue="Application.leetcode640" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +204,8 @@
       <workItem from="1616897792524" duration="2994000" />
       <workItem from="1616980522099" duration="889000" />
       <workItem from="1617019422197" duration="1199000" />
-      <workItem from="1617065433743" duration="3230000" />
+      <workItem from="1617065433743" duration="3327000" />
+      <workItem from="1617157132252" duration="2770000" />
     </task>
     <task id="LOCAL-00001" summary="旧数据提交">
       <created>1598362012328</created>
@@ -218,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616981380188</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="135分发糖果">
+      <created>1617082666104</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617082666104</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,43 +277,49 @@
     <MESSAGE value="264" />
     <MESSAGE value="magicbook第一次测试提交" />
     <MESSAGE value="455分发饼干" />
-    <option name="LAST_COMMIT_MESSAGE" value="455分发饼干" />
+    <MESSAGE value="135分发糖果" />
+    <option name="LAST_COMMIT_MESSAGE" value="135分发糖果" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1617159670541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1617159670541" />
     <state x="639" y="299" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1616897838716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="639" y="299" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1616897838716" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1616981379371">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1617082665292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1616897874419" />
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1616981379371" />
-    <state width="1493" height="123" key="GridCell.Tab.0.bottom" timestamp="1617082628490">
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1617082665292" />
+    <state width="1493" height="143" key="GridCell.Tab.0.bottom" timestamp="1617159679803">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="123" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617082628490" />
-    <state width="1493" height="123" key="GridCell.Tab.0.center" timestamp="1617082628490">
+    <state width="1493" height="143" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617159679803" />
+    <state width="1493" height="143" key="GridCell.Tab.0.center" timestamp="1617159679803">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="123" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617082628490" />
-    <state width="1493" height="123" key="GridCell.Tab.0.left" timestamp="1617082628490">
+    <state width="1493" height="143" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617159679803" />
+    <state width="1493" height="143" key="GridCell.Tab.0.left" timestamp="1617159679803">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="123" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617082628490" />
-    <state width="1493" height="123" key="GridCell.Tab.0.right" timestamp="1617082628490">
+    <state width="1493" height="143" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617159679803" />
+    <state width="1493" height="143" key="GridCell.Tab.0.right" timestamp="1617159679803">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="123" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617082628490" />
-    <state x="282" y="52" key="SettingsEditor" timestamp="1616931441442">
+    <state width="1493" height="143" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617159679803" />
+    <state x="282" y="0" key="SettingsEditor" timestamp="1617159904532">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="282" y="52" key="SettingsEditor/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1616931441442" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1616981382594">
+    <state x="282" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617159904532" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1617082667954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1616897880610" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1616981382594" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617082667954" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
